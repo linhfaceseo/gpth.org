@@ -107,7 +107,7 @@ blockquote cite:before { content: "\2014 \2009"; }
 .searchform .searchbutton{border:none;font-size:12px;height:23px;width:23px;margin:0;padding:0}
 
 .sidebar-wrapper,.sidebar1-wrapper{width:320px;float:right;word-wrap:break-word;overflow:hidden}
-.sidebar h2{color:#333;font:18px Smythe;font-weight: bold;margin:0 10px;padding:5px 0 13px;text-transform:uppercase;background:url(http://2.bp.blogspot.com/-vBqe4ZmtYSo/UT87W-IKz4I/AAAAAAAAAbU/EE8BXvUkjNY/s1600/sprite.png) repeat-x scroll bottom;}
+.sidebar h2{color:#333;font:18px Smythe;font-weight: bold;margin:0 10px;padding:5px 0 13px;text-transform:uppercase;background-color:#ccc;}
 .sidebar{color:#666;line-height:1em;margin:5px 0;font:11px Arial}
 .sidebar li{line-height:1.3em;margin:0;padding:5px 0 4px;border-bottom:1px dashed #ddd}
 .sidebar .widget,.sidebar1 .widget{margin:10px 3px 10px 1px;padding:0;-webkit-box-shadow:1px 1px 5px #c3c3c3;-moz-box-shadow:1px 1px 5px #c3c3c3;-ms-box-shadow:1px 1px 5px #c3c3c3;-o-box-shadow:1px 1px 5px #c3c3c3;box-shadow:1px 1px 5px #c3c3c3;background:#f6f6f6;border:1px solid #fff;}
@@ -363,6 +363,4 @@ width: 36px;
 .fp-next:hover {
 opacity: 0.8;
 }
-gpth.org.css
-Mở bằng
-Đang hiển thị gpth.org.css.
+
